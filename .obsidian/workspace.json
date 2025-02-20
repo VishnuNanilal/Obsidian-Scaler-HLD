@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a48559d11c0eba5",
+        "id": "c37f99a30ccd2bdc",
         "type": "tabs",
         "children": [
           {
-            "id": "21cdf074f73c5155",
+            "id": "8241f3560e1e59b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "90674107e2e583f1",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15. Case Study 4 - Elastic Search.md",
+                "file": "16. Amazon S3 + Quad trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15. Case Study 4 - Elastic Search"
+              "title": "Backlinks for 16. Amazon S3 + Quad trees"
             }
           },
           {
@@ -155,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,21 +169,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21cdf074f73c5155",
+  "active": "8241f3560e1e59b4",
   "lastOpenFiles": [
-    "assets/modern-server-stack-22528866.webp",
-    "16. Amazon S3 + Quad trees.md",
-    "assets/Screenshot 2025-02-19 193804.png",
-    "assets/Screenshot 2025-02-19 184842 1.png",
-    "assets/Pasted image 20250219191507.jpg",
-    "assets/Screenshot 2025-02-19 184842z.png",
-    "assets/Screenshot 2025-02-19 184842.png",
-    "15. Case Study 4 - Elastic Search.md",
-    "assets/Screenshot 2025-02-18 223005.png",
+    "6.png",
+    "5.png",
+    "4.png",
+    "3.png",
+    "2.png",
+    "1.png",
+    "assets/quad-tree.png",
+    "assets/Screenshot 2025-02-20 133308.png",
+    "Point_quadtree.svg.png",
     "Resources.md",
-    "assets/Pasted image 20250218222646.jpg",
-    "assets/Screenshot 2025-02-18 221649.png",
-    "assets/Screenshot 2025-02-01 141654.png",
+    "16. Amazon S3 + Quad trees.md",
+    "assets/Screenshot 2025-02-20 124821.png",
+    "assets/Screenshot 2025-02-20 132841.png",
+    "15. Case Study 4 - Elastic Search.md",
     "toStudies/Case Study 4 (Elastic Search).md",
     "10. Case Study 2 - Typeahead.md",
     "6. Cap Theorem & Master-Slave.md",
